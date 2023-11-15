@@ -1,0 +1,26 @@
+.par{
+  background-color: rgb(190, 247, 163);
+   text-align: left;
+}
+.impar{
+  background-color: rgb(94, 182, 94);
+   text-align: left;
+}
+.titulo{
+  background-color: darkgreen;
+  color: rgb(180, 230, 173)
+}
+
+tr,th,td{
+  border:1px solid #72f3f5;
+ 
+}
+
+table{
+ border-spacing: 0;
+   border: 5px solid #aaaaaa;
+  border-top: 5px solid #f0f0f0;
+  border-left: 5px solid #f0f0f0;
+  
+  
+}

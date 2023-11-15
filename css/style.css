@@ -1,0 +1,36 @@
+body{
+    background-color: aqua;
+    margin: 0;
+}
+
+#header,#news,#footer{
+    height: 10vh;
+    background-color: red;
+}
+
+#main{
+    height: 70vh;
+    background-color: green;
+}
+
+#news{
+    background-color: yellow;
+}
+
+#footer{
+    background-color: blueviolet;
+}
+
+#main-izp{
+    float:left;
+    height: 70vh;
+    width: 20vw;
+    background-color: orangered;
+}
+
+#main-der{
+    float:left;
+    height: 70vh;
+    width: 70vw;
+    background-color: orange;
+}

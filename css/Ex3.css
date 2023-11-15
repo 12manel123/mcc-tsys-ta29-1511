@@ -1,0 +1,40 @@
+table{
+  width: 100%;
+  font-weight: bold;
+}
+
+#c1{
+  background-color: lightgreen;
+  text-align: center;
+}
+
+#c2{
+  background-color: cyan;
+  text-align: left;
+}
+
+#c3,#c5,#c8{
+  color:red;
+  text-align: center;
+}
+
+#c4,#c7{
+  text-align: center;
+}
+
+#c6{
+  background-color: pink;
+  text-align: right;
+}
+
+td{
+  border: 0.5px solid gray;
+}
+
+table{
+  border: 3px solid gray;
+}
+
+h3{
+  text-align: center;
+}

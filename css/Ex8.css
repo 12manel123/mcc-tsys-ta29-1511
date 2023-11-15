@@ -1,0 +1,18 @@
+#anterior,#posterior{
+  width: 200px;
+  height: 100px;
+  border: blue 3px solid;
+}
+#prueba{
+  width: 400px;
+  height: 400px;
+  border: red 3px solid;
+  margin: 12px;
+}
+
+div{
+  background: url(../img/f01.png) left bottom repeat-x,
+  url(../img/f02.png) left bottom no-repeat,
+  url(../img/f03.png) left top repeat-x;
+  background-color: #a4d3ff;
+}

@@ -1,0 +1,29 @@
+table{
+   background-image:  url("../img/pisadas.jpg");
+   width:70%;
+   text-align: center;
+   margin-left: 120px;
+   color: darkred;
+   border: 3px solid black;
+   border-bottom: 3px solid gray;
+   border-right: 3px solid gray;
+}
+
+th,td{
+   border: 1px solid black;
+   border-bottom: 1px solid gray;
+   border-right: 1px solid gray;
+}
+
+th{
+   background-color: rgb(72, 156, 72);
+   font-weight: normal;
+}
+
+.title{
+   background-color: rgb(250, 173, 114);
+}
+
+.title2{
+   background-color: rgb(255, 255, 139);
+}

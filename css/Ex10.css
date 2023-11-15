@@ -1,0 +1,8 @@
+table,tr,td,th{ 
+  border: 1px black solid;
+}
+
+.category{
+  font-weight: bold;
+  text-align: center;
+}

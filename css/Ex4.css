@@ -1,0 +1,29 @@
+body {
+  background-image:  url("../img/penguin.jpeg");
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
+
+
+
+table{
+  text-align: center;
+  border-bottom: 5px solid black;
+  border-right:  5px solid black;
+  background-color: white;
+  margin: 22%;
+}
+
+th,td{
+  border: 1px solid black;
+  width: 10%;
+  margin-left: 20px!important;
+  margin-right: 20px;
+}
+th{
+  background-color: white ;
+
+}
+td{
+  background-color: #fffd9e;
+}
